@@ -78,6 +78,13 @@
             <artifactId>gson</artifactId>
             <version>1.7.1</version>
         </dependency>
+
+        <!-- CSV Parser -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.2</version>
+        </dependency>
     </dependencies>
 
     <repositories>
