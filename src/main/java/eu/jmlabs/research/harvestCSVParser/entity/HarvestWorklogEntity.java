@@ -7,7 +7,7 @@ import java.sql.Timestamp;
  * Created by Mark0 on 19/10/15.
  */
 @Entity
-@Table(name = "harvest_worklog", schema = "", catalog = "Outfit7")
+@Table(name = "harvest_worklog", schema = "", catalog = "database")
 public class HarvestWorklogEntity {
     private int id;
     private Timestamp created;
